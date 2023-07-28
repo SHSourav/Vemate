@@ -1,6 +1,6 @@
 # Vemate
 
-A new Flutter project.
+An NFT trading app
 
 ## Getting Started
 
